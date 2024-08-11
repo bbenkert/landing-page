@@ -40,3 +40,41 @@ a:link {
   color: #e5e7eb;
   text-decoration: none;
 }
+.hero {
+  padding: 7em 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2em;
+}
+.hero p {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+.hero h1 {
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: 900;
+}
+#left {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+#right {
+  flex-shrink: 0;
+  width: 50%;
+}
+button {
+  padding: 7px 1em;
+  width: 120px;
+  background-color: #3882f6;
+  border-radius: 8px;
+}
+.img-placeholder {
+  background-color: gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+}
