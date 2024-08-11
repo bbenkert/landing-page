@@ -108,7 +108,7 @@ main {
 }
 .card {
   flex-shrink: 0;
-  width: 160px;
+  width: 180px;
   flex-direction: column;
 }
 .card-img {
