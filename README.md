@@ -1,6 +1,8 @@
 # This is a landing page project from The Odin Project course.
 
-## I am using:
+## See this page live: https://bbenkert.github.io/landing-page/
+
+### I am using:
 
 - HTML
 - CSS
