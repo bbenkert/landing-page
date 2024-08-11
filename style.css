@@ -35,3 +35,8 @@ nav {
   display: flex;
   gap: 1.5em;
 }
+a:link {
+  font-size: 18px;
+  color: #e5e7eb;
+  text-decoration: none;
+}
